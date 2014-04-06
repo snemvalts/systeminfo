@@ -7,6 +7,10 @@
   "bin": {
     "systeminfo": "./bin/systeminfo"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snemvalts/systeminfo"
+    },
   "keywords": [
     "cli",
     "system",
